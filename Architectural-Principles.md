@@ -7,8 +7,6 @@
 -->
 # 1. Guiding Principles
 
-1. Elegance is the primary indicator of correctness
-1. Correctness implies performance, efficiency, and readability — not the reverse
 1. Every architectural decision MUST follow from the nature of the problem, not from convenience, convention, or compromise
 1. Abstraction and generality MUST be preferred — solve the class of problems, not the instance
 1. Constraints are features — restrictiveness reduces ambiguity for both human and machine contributors
