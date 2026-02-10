@@ -103,9 +103,10 @@
 1. Acceptance criteria MUST NOT introduce new requirements — they verify existing ones -->
 
 ## 2.6. Classification
+> Review
 
-1. Every requirement MUST be classified as functional or non-functional
-1. Non-functional requirements MUST specify which quality attribute they address (performance, security, availability, maintainability, etc.)
+<!-- 1. Every requirement MUST be classified as functional or non-functional
+1. Non-functional requirements MUST specify which quality attribute they address (performance, security, availability, maintainability, etc.) -->
 
 ## 2.7. Traceability
 
