@@ -69,7 +69,8 @@
 1. Requirement IDs MUST be unique and MUST NOT be reused after deletion
 
 ## 2.4. Requirement Attributes
-
+> Review since no attributes in gitlab
+<!-- 
 1. Every requirement MUST have the following attributes:
    1. ID: as defined in 3.2.3
    1. Type: `FUN`, `NFR`, `SEC`, `INT`, or `CON`
@@ -88,17 +89,18 @@
    1. Dependencies: list of requirement IDs this requirement depends on
    1. Project: project code
    1. Source: origin of the requirement (stakeholder name, regulation reference, technical constraint)
-   1. Status: `Draft`, `Approved`, `Implemented`, `Verified`, `Deferred`, `Deleted`
+   1. Status: `Draft`, `Approved`, `Implemented`, `Verified`, `Deferred`, `Deleted` -->
 
 ## 2.5. Acceptance Criteria
-
+> Review
+<!-- 
 1. Every requirement MUST have acceptance criteria
 1. Acceptance criteria MUST use Given/When/Then format:
    1. `Given <precondition>`
    1. `When <action>`
    1. `Then <expected result>`
 1. Each acceptance criterion MUST be independently testable
-1. Acceptance criteria MUST NOT introduce new requirements — they verify existing ones
+1. Acceptance criteria MUST NOT introduce new requirements — they verify existing ones -->
 
 ## 2.6. Classification
 
