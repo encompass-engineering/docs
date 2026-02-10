@@ -15,7 +15,7 @@
    1. Risk identification: all known risks MUST be documented with likelihood and impact
 
 ## 1.2. Estimation
-
+> Review change to complexity based estimation
 1. Timeline estimation MUST use a three-point estimate: optimistic, expected, pessimistic
 1. Resource estimation MUST specify required skills, not just headcount
 
@@ -192,4 +192,4 @@
 ## 4.3. Training
 
 1. If the deliverable introduces new tools, processes, or systems, a training plan MUST be included
-1. Training MUST be completed before the deliverable is considered fully handed off
+1. Training MUST be completed before the deliverable is considered fully handed off.
